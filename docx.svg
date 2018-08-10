@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="256px" height="256px" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 256 256">
+	<polygon fill="white" stroke="#A7A5A6" stroke-width="3" stroke-miterlimit="2.61313" points="57.5,18.5 174.5,18.5 222.5,66.5 222.5,236.5 57.5,236.5"/>
+	<polygon fill="#979797" points="193,48 193.04,39 77,39 77,48"/>
+	<polygon fill="#979797" points="203,69 203,60 77,60 77,69"/>
+	<polygon fill="#979797" points="203,90 203,81 77,81 77,90"/>
+	<polygon fill="#979797" points="203,111 203,102 77,102 77,111"/>
+	<polygon fill="#979797" points="203,132 203,123 77,123 77,132"/>
+	<polygon fill="#979797" points="203,153 203,144 77,144 77,153"/>
+	<polygon fill="#979797" points="203,174 203,165 77,165 77,174"/>
+	<polygon fill="#979797" points="203,195 203,186 77,186 77,195"/>
+	<polygon fill="#979797" points="203,216 203,207 77,207 77,216"/>
+	<polygon fill="#515253" fill-opacity="0.529412" points="221,69 221,66 175,66 175,20 172,20 172,69 172,69 172,69"/>
+	<path fill="white" fill-rule="nonzero" d="M175 21l44.85 45 -44.85 0 0 -45zm22.42 22.5m0 22.5m-22.4 -22.5"/>
+	<polygon fill="#295598" points="31,97 120,86 120,214 31,203"/>
+	<polygon fill="#FEFEFE" points="61.2,171 68.65,171 75.55,140.6 81.4,171 90,171 97.55,129 91.2,129 85.5,160.75 79.65,129 72,129 65.45,160.7 60.2,129 53.25,129"/>
+</svg>
