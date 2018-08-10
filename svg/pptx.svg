@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="256px" height="256px" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 256 256">
+	<polygon fill="white" stroke="#A7A5A6" stroke-width="3" stroke-miterlimit="2.6" points="57.5,18.5 174.5,18.5 222.5,66.5 222.5,236.5 57.5,236.5"/>
+	<rect fill="#F4B99C" x="77" y="210" width="9" height="9"/>
+	<rect fill="#F4B99C" x="95" y="210" width="108" height="9"/>
+	<rect fill="#F4B99C" x="95" y="189" width="108" height="9"/>
+	<rect fill="#F4B99C" x="95" y="168" width="108" height="9"/>
+	<rect fill="#F4B99C" x="95" y="147" width="108" height="9"/>
+	<path fill="#F4B99C" d="M146 84l0 -38c21,0 38,17 38,38l-38 0z"/>
+	<path fill="#939393" d="M140 90l38 0c0,21 -17,38 -38,38 -21,0 -38,-17 -38,-38 0,-21 17,-38 38,-38l0 38z"/>
+	<polygon fill="#D04626" points="31,97 31,203 120,214 120,89"/>
+	<path fill="white" d="M64.25 170.75l7.5 0 -0 -14c11.35,-0 17.5,-5.25 16,-17.5 -1.5,-11.5 -11.5,-11 -23.5,-10l0 41.5zm7.5 -21.5c5,-0 8,-0.25 8.25,-6.25 0.15,-5.75 -2.75,-6.5 -8.25,-6.5l0 12.75z"/>
+	<polygon fill="#515253" fill-opacity="0.5" points="221,69 221,66 175,66 175,20 172,20 172,69 172,69 172,69"/>
+	<path fill="white" fill-rule="nonzero" d="M175 21l44.85 45 -44.85 0 0 -45zm22.4 22.5m0 22.5m-22.4 -22.5"/>
+</svg>

@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="256px" height="256px" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 256 256">
+	<linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="186.65" y1="38.65" x2="162.65" y2="62.65">
+		<stop offset="0" stop-opacity="1" stop-color="whitesmoke"/>
+		<stop offset="0.5" stop-opacity="1" stop-color="#F9F9F9"/>
+		<stop offset="1" stop-opacity="1" stop-color="#FEFEFE"/>
+	</linearGradient>
+	<polygon fill="whitesmoke" stroke="#ADACAC" stroke-miterlimit="2.6" points="45.65,15.5 163.35,15.5 211.35,63.5 211.35,238.5 45.65,238.5"/>
+	<path fill="url(#id0)" fill-rule="nonzero" stroke="#ADACAC" stroke-linejoin="bevel" stroke-miterlimit="2.6" d="M163.5 15.5l48 48 -48 0 0 -48zm24 24m0 24m-24 -24"/>
+	<polygon fill="#B2B1B2" points="60,37.5 162,37.5 162,36.5 60,36.5"/>
+	<polygon fill="#B2B1B2" points="60,45.5 162,45.5 162,44.5 60,44.5"/>
+	<polygon fill="#B2B1B2" points="60,53.5 162,53.5 162,52.5 60,52.5"/>
+	<polygon fill="#B2B1B2" points="60,61.5 162,61.5 162,60.5 60,60.5"/>
+	<polygon fill="#B2B1B2" points="60,69.5 195,69.5 195,68.5 60,68.5"/>
+	<polygon fill="#B2B1B2" points="60,77.5 195,77.5 195,76.5 60,76.5"/>
+	<polygon fill="#B2B1B2" points="60,85.5 195,85.5 195,84.5 60,84.5"/>
+	<polygon fill="#B2B1B2" points="60,93.5 195,93.5 195,92.5 60,92.5"/>
+	<polygon fill="#B2B1B2" points="60,101.5 195,101.5 195,100.5 60,100.5"/>
+	<polygon fill="#B2B1B2" points="60,109.5 195,109.5 195,108.5 60,108.5"/>
+	<polygon fill="#B2B1B2" points="60,117.5 195,117.5 195,116.5 60,116.5"/>
+	<polygon fill="#B2B1B2" points="60,125.5 195,125.5 195,124.5 60,124.5"/>
+	<polygon fill="#B2B1B2" points="60,133.5 195,133.5 195,132.5 60,132.5"/>
+	<polygon fill="#B2B1B2" points="60,141.5 195,141.5 195,140.5 60,140.5"/>
+	<polygon fill="#B2B1B2" points="60,149.5 195,149.5 195,148.5 60,148.5"/>
+	<polygon fill="#B2B1B2" points="60,157.5 195,157.5 195,156.5 60,156.5"/>
+	<polygon fill="#B2B1B2" points="60,165.5 195,165.5 195,164.5 60,164.5"/>
+	<polygon fill="#B2B1B2" points="60,173.5 195,173.5 195,172.5 60,172.5"/>
+	<polygon fill="#B2B1B2" points="60,181.5 195,181.5 195,180.5 60,180.5"/>
+	<polygon fill="#B2B1B2" points="60,189.5 195,189.5 195,188.5 60,188.5"/>
+	<polygon fill="#B2B1B2" points="60,197.5 195,197.5 195,196.5 60,196.5"/>
+	<polygon fill="#B2B1B2" points="60,205.5 195,205.5 195,204.5 60,204.5"/>
+	<polygon fill="#B2B1B2" points="60,213.5 195,213.5 195,212.5 60,212.5"/>
+	<polygon fill="#B2B1B2" points="60,221.5 195,221.5 195,220.5 60,220.5"/>
+</svg>

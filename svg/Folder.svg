@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="256px" height="256px" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 256 256">
+	<linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="190" y1="45" x2="45" y2="45">
+		<stop offset="0" stop-opacity="1" stop-color="#FEE388"/>
+		<stop offset="0.5" stop-opacity="1" stop-color="#F2D06C"/>
+		<stop offset="1" stop-opacity="1" stop-color="#EDCA67"/>
+	</linearGradient>
+	<linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="45" y1="290" x2="90" y2="10">
+		<stop offset="0" stop-opacity="1" stop-color="#FFDF84"/>
+		<stop offset="1" stop-opacity="1" stop-color="#FFEAA6"/>
+
+	</linearGradient>
+	<path fill="url(#id0)" d="M45.01 28l128 0c2.2,0 4,1.8 4,4l-0 106 12 13 0 55c0,2.19 -1.8,4 -4,4l-140 0 0 -182z"/>
+	<path fill="url(#id1)" d="M45 28l47.64 38.75c0.75,0.6 1.35,2.9 1.35,5l0 106 -4 9.7 0 55c0,2.2 -0.6,3.5 -1.35,2.9l-43.55 -35.45 0 -182z"/>
+	<rect fill="#FEE592" x="48" y="35.5" width="1" height="1"/>
+	<rect fill="#FDDD76" x="48" y="36.5" width="1" height="170"/>
+	<rect fill="#FFEEB6" x="49" y="36.5" width="1" height="170"/>
+	<rect fill="#FEE592" x="51" y="38.5" width="1" height="1"/>
+	<rect fill="#FDDD76" x="51" y="39.5" width="1" height="170"/>
+	<rect fill="#FFEEB6" x="52" y="39.5" width="1" height="170"/>
+</svg>
