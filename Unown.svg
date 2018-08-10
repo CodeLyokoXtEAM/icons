@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="256px" height="256px" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 256 256">
+	<linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="186.65" y1="38.65" x2="162.65" y2="62.65">
+		<stop offset="0" stop-opacity="1" stop-color="whitesmoke"/>
+		<stop offset="0.5" stop-opacity="1" stop-color="#F9F9F9"/>
+		<stop offset="1" stop-opacity="1" stop-color="#FEFEFE"/>
+	</linearGradient>
+	<polygon fill="whitesmoke" stroke="#ADACAC" stroke-miterlimit="2.6" points="45.65,15.5 163.35,15.5 211.35,63.5 211.35,238.5 45.65,238.5"/>
+	<path fill="url(#id0)" fill-rule="nonzero" stroke="#ADACAC" stroke-linejoin="bevel" stroke-miterlimit="2.6" d="M163.5 15.5l48 48 -48 0 0 -48zm24 24m0 24m-24 -24"/>
+</svg>
